@@ -58,6 +58,7 @@ Insights Derived:
 
 # Visualisation
 Screenshoot  of dashboard
+![Dashboard Preview](https://github.com/Linus-Ijai/Choco-de-Luxe-dashboard-report/blob/main/Screenshot%202025-10-01%20211748.png)
 
 # Key Findings
   1. Overall Performance:
