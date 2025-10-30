@@ -1,8 +1,7 @@
 # Choco-de-Luxe-dashboard-report
 This report delivers a detailed examination of Choco de Luxe sales and delivery performance across Europe uncovering trend in regional sales channel efficiency, staff contributions, and product profitability using Ms. Excel
 
-# Table of content
-
+## Table of content
  Introduction
  Data preparation
  Tools used
