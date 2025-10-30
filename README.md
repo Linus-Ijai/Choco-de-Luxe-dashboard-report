@@ -3,13 +3,13 @@ This report delivers a detailed examination of Choco de Luxe sales and delivery 
 
 # Table of content
 
-Introduction
-Data preparation
-Tools used
-Understanding the dataset
-Visualisation
-Key findings
-Conclusion and Recommendations
+ Introduction
+ Data preparation
+ Tools used
+ Understanding the dataset
+ Visualisation
+ Key findings
+ Conclusion and Recommendations
 
 # Introduction
 This report provides a technical analysis of Choco de Luxe’s sales and product performance across multiple dimensions—sales channels, product categories, geographies, personnel, and delivery status. The dashboards provided serve as the basis for descriptive analytics, with further interpretive insights included to support decision-making. The purpose of this report is to identify sales drivers, highlight inefficiencies, and recommend actionable strategies that enhance both operational and strategic outcomes.
